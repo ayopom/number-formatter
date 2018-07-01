@@ -1,0 +1,31 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "Number formatter is a lightweight package that formats a number based on locale",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayopom/number-formatter.git"
+  },
+  "keywords": [
+    "number",
+    "formatter",
+    "locale"
+  ],
+  "author": "Ayodele Pompey <ayodelepompey@gmail.com> (http://www.ayodelepompey.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayopom/number-formatter/issues"
+  },
+  "homepage": "https://github.com/ayopom/number-formatter#readme",
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
